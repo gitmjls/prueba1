@@ -18,7 +18,7 @@ public class Procesar extends HttpServlet {
      * @see HttpServlet#HttpServlet()
      */
     public Procesar() {
-        super();
+        
         // TODO Auto-generated constructor stub
     }
 
